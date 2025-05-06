@@ -17,7 +17,7 @@ while(i<=500){
         }
         i++;
         u = 1;
-it branch -M main        sum = 0;
+        sum = 0;
     }
 }
  }
