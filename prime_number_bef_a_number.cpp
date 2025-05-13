@@ -30,3 +30,9 @@ for(int i=2; i<x; i++){
 
 }
 
+while(numbers[n]){
+    numbers[n++];
+    count++;
+}
+cout<<numbers[count-1]<<"is the last prime number before 50"<<endl;
+}
