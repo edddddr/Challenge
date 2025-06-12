@@ -47,6 +47,19 @@ int main(){
 //   1 2 3 4
 // 1 2 3 4 5
 
+// The * guy
+
+for(int i=1; i <= 5; i++ ){
+        for(int j=5; j > i; j--){
+            cout<<" ";
+        }
+         for(int y =1; y<=i; y++){
+            cout<<"*";
+            cout<<" ";
+         }
+        cout<<endl;
+    }
+
     
 
     return 0;
